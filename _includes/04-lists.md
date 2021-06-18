@@ -1,3 +1,3 @@
-:beer:
-:runner:
-:ocean:
+- :beer:
+- :runner:
+- :ocean:
